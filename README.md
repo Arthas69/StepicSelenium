@@ -3,8 +3,8 @@
 ### Все уроки курса Stepic по работе и автоматизации с Selenium
 + [x] Section 1
 + [x] Section 2
-+ [] Section 3
-+ [] Section 4
++ [ ] Section 3
++ [ ] Section 4
 
 
 #### Как начать работать с репозиторием
