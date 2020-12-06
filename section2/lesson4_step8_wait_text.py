@@ -13,7 +13,7 @@ class Robot:
         self.browser = webdriver.Chrome()
         self.x = None
         self.answer = None
-d
+
     def _calculate_answer(self):
         self.answer = math.log(abs(12 * math.sin(int(self.x))))
 
