@@ -1,0 +1,8 @@
+Запускается это всё из консоли командой
+“pytest -v -s tests/path_to_testfile.py”,
+где -v — “verbose” режим.
+
+
+Если захотите вызвать отдельный сьют или отдельный кейс из сьюта,
+то выглядеть это будет следующим образом:
+“pytest -v -s tests/path_to_testfile.py::TestSuite::test_case_1”
